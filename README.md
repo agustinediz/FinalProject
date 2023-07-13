@@ -1,5 +1,4 @@
-# FINAL PROJECT
->  NYC Taxi Fare and Trip Duration Prediction
+# NYC Taxi Fare and Trip Duration Prediction
 
 ## The Business problem
 
